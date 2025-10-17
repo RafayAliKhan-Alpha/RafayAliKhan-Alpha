@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RafayAliKhan-Alpha
+- 👋 Hi, I’m @RafayAliKhan
 - 👀 I’m interested in AI and Machine Learning, Computer vision and Natural Language processing.
 - 🌱 I’m currently learning natural language processing.
 - 💞️ I’m looking to collaborate on Machine learning projects.
